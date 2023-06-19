@@ -1,0 +1,11 @@
+*{padding:0px;margin: 0px;}
+body{background-image: url(Images/woman.jpg);background-repeat: no-repeat;height: 100vh;background-size: cover;background-attachment: fixed;;}
+#nav{display: flex;margin-top: 10px;margin-left: 400px;} nav{flex: 2;text-align: right;}
+nav ul li{list-style: none;display:inline-block;margin-top: 15px;margin-right: 35px;border: solid;padding:2px 35px;background-color: white;border-color: white;}
+nav ul li a{text-decoration: none;color: palevioletred;font-size:15px;}
+#art{color:palevioletred;}
+#lets{color: antiquewhite;text-align: center;margin-top: 20%;font-weight:600px;font-size: 30px;}
+#find{padding: 10px 155px;margin-left: 400px;text-align: center;}
+ #search{padding: 5px 10px;background-color:paleturquoise;}
+
+  
